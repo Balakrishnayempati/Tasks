@@ -1,0 +1,51 @@
+                         About Git and GitHub
+
+GIT ------>Global information tracker.
+
+
+
+       GitHub:
+--> GitHub is a web-based platform used for collaborative work and managing project-related data. It allows users to store,share,modify and delete project data seamlessly.
+
+
+     Features of GitHub:
+--> Open source: Encourages open-source.
+--> Cloud-Based: It provides cloud storage enabling access form anywhere.
+--> Collaboration Tools: Tools to manage team workflows.
+--> Code Reviews: Enables peer review of code.
+--> Code Hosting and sharing: Reliable platform to host and share code.
+--> Code management: Tools for organizing managing code repositories.
+--> Code security: Security features to protect your code.
+--> Code backup: Ensures code is safely backed-up.
+--> Ci/Cd: Continuous integration and continuous deployment support.
+--> Version control: Ability to revert to previous versions of a project.
+--> Repository: A storage location for all projects files, which tracks changes.
+  Public: Accessible to everyone.
+  Private: They are only available to the owner of repository.  
+	
+       Git:
+--> Git is a distributed version control system(VCS) that tracks changes in any set of computer files, usually used for coordinating work among programmers who are collaboratively developing source code during development.
+
+--> Git can acts as a medium between development environment to storing platform.
+
+      Git Features:
+--> Open source and community support and branching and merging, distributed version control, staging area by using git we can do pull request and push the code.
+
+     Three components of git:
+--> Working directory.
+--> Stagging area.
+--> Remote area.
+
+    Git commands:
+
+Git init (optional)
+Git clone
+Git add filename/git add.
+Git commit -m "give any mesg"
+Git branch -M main
+Git push
+Git status
+Git remote add origin(main url)
+Cd foldername/
+Git push -u origin(main url)
+Ls
